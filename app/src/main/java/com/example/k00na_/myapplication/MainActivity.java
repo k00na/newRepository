@@ -7,9 +7,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
     
-    // new comment added... 
-    // another comment added
-
+    // deleted previous comments, added this one
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
